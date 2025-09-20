@@ -127,7 +127,7 @@ PUTCHAR_PROTOTYPE
 
 ## Output screen shots of Serial port utility   :
 
- <img width="1031" height="801" alt="Screenshot 2025-09-01 121946" src="https://github.com/user-attachments/assets/e380379b-685c-489a-80df-70f88c84f01f" />
+<img width="1919" height="1082" alt="Screenshot 2025-09-20 094302" src="https://github.com/user-attachments/assets/fd27028d-0c27-41c6-a4ee-930d8ccfd20b" />
 
  ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
